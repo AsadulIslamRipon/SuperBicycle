@@ -1,0 +1,21 @@
+.title{
+    background-color: #17252A;
+    height: 120px;
+}
+
+.title h1{
+    font-size: 48px;
+    color: whitesmoke;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+}
+
+.title span{
+    color: orange;
+}
+
+.title p{
+    color: white;
+    text-align: center;
+}

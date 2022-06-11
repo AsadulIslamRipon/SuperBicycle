@@ -1,0 +1,56 @@
+[
+  {
+    "id": "62a2e2039176604902b9ebf1",
+    "name": "Adam Dubec",
+    "price": "$3000",
+    "img": "images/Adam Dubec.jpg"
+  },
+  {
+    "id": "62a2e203463dde572e8b7a22",
+    "name": "Afta Putta",
+    "price": "$1,882",
+    "img": "images/Afta Putta.jpg"
+  },
+  {
+    "id": "62a2e203d295211c17946cf3",
+    "name": "Clem Onojeghuo",
+    "price": "$2,963.19",
+    "img": "images/Clem Onojeghuo.jpg"
+  },
+  {
+    "id": "62a2e203a289f5c7126f0217",
+    "name": "Vadim B",
+    "price": "$3,842.44",
+    "img": "images/Vadim B.jpg"
+  },
+  {
+    "id": "62a2e2037529fea14f3a3c4d",
+    "name": "Leandro Boogalu",
+    "price": "$2,719.57",
+    "img": "images/Leandro Boogalu.jpg"
+  },
+  {
+    "id": "62a2e203b16758ff0ed24914",
+    "name": "Nikita Kovalevsky",
+    "price": "$1,593.32",
+    "img": "images/Nikita Kovalevsky.jpg"
+  },
+  {
+    "id": "62a2e203ad1c8bf4b540511a",
+    "name": "Philip M",
+    "price": "$1,032.28",
+    "img": "images/Philipp M.jpg"
+  },
+  {
+    "id": "62a2e2037a49bfc1184a151d",
+    "name": "Pixabay",
+    "price": "$2,777.68",
+    "img": "images/Pixabay.jpg"
+  },
+  {
+    "id": "62a2e2a388f947406eca4a43",
+    "name": "Sergei A",
+    "price": "$2,856.24",
+    "img": "images/Sergei A.jpg"
+  }
+]

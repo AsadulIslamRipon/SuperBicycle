@@ -1,0 +1,79 @@
+.cart {
+  position: sticky;
+  top: 0;
+  padding: 30px 0 0 20px;
+}
+
+.cart h2 {
+  font-family: "Lato";
+  font-size: 25px;
+  color: #1c2b35;
+}
+
+.displayCart {
+  display: flex;
+}
+
+.displayImage {
+  background-color: rgb(220, 220, 220);
+  width: 50px;
+  margin: 5px;
+  border-radius: 75%;
+}
+
+.displayImage img {
+  width: 20px;
+}
+
+.displayCart p {
+  font-family: "Lato";
+  font-size: 21px;
+  letter-spacing: 0.0015em;
+  color: #0e161a;
+  padding: 5px;
+}
+
+.randomProduct h2{
+  font-family: "Lato";
+  font-size: 25px;
+  color: #1c2b35;
+  margin-bottom: 0px;
+}
+
+.randomProduct input{
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: none;
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
+.check-one {
+  background: rgba(255, 48, 48, 1);
+  border-radius: 20px;
+  border: none;
+  color: whitesmoke;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 20px;
+  display: flex;
+}
+
+.check-one p {
+  margin-right: 10px;
+}
+
+.check-again {
+  background: rgba(255, 153, 0, 1);
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  border: none;
+  color: whitesmoke;
+  justify-content: center;
+  padding: 4px 20px;
+}
+
+.check-again p {
+  margin-right: 5px;
+}
